@@ -1,7 +1,7 @@
 CyanogenMod
 ===========
 
-Mediatek-Fork for Cat B15Q
+Experimental Cm 14.0-Mediatek-Fork for Cat B15Q
 ------------------
 This is a project is forked for Cat B15Q!
 It's made by several developers to make CyanogenMod work on legacy Mediatek Device.
