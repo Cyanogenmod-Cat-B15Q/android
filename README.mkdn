@@ -1,7 +1,7 @@
-CyanogenMod
+CyanogenMod with GMCadion's patches
 ===========
 
-Mediatek-Fork for Cat B15Q
+Mediatek-Fork for Cat B15Q - this is a experimental branch!
 ------------------
 This is a project is forked for Cat B15Q! Use the wiki for more information: https://github.com/hersche/android/wiki
 It's made by several developers to make CyanogenMod work on legacy Mediatek Device.
@@ -37,7 +37,7 @@ sudo apt install repo maven m4 openjdk-8-jdk schedtool curl
 
 To initialize your local repository using the CyanogenMod and my trees, use a command like this:
 
-    repo init -u git://github.com/hersche/android.git -b cm-13.0
+    repo init -u git://github.com/hersche/android.git -b cm-13.0-gmcadion
 
 Then to sync up:
 
